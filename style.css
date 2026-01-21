@@ -34,7 +34,7 @@ text-align: center;
     color: black;
 }
 
-p{
+#homewriting{
     background-color: rgb(220, 220, 220);
     text-align: left;
     color: rgb(132, 75, 75);
@@ -43,3 +43,10 @@ p{
 letter-spacing: 2px;
 top: 100px;
 }
+
+#spanishclass {
+    width: 500px;
+    height: 350px;
+    padding: 4px;
+}
+
